@@ -1,4 +1,4 @@
-package com.kryptnostic.annotation;
+package com.kryptnostic.annotations;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
